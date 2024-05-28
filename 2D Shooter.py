@@ -1,3 +1,12 @@
+'''
+You will have to install these modules to get this to run. Ask permission first from the computer owner (or your parents if you're under-18):-
+  pgzero
+  pygame
+  numpy
+Command for installation (for Command Prompt/Terminal):-
+It will look something like this:-
+  C:\Users\yourusername\AppData\Local\Programs\Python\Python39\python.exe -m pip install pgzero pygame numpy
+'''
 import os
 os.environ['SDL_VIDEO_CENTERED'] = '1'
 import pgzrun
