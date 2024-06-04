@@ -1,3 +1,17 @@
+'''
+Assets:-
+  Bedrock texture.png
+  Dirt texture.png
+  Grass texture.png
+  Stone texture.png
+  Stone brick texture.png
+
+You will have to install these modules to get this to run. Ask permission first from the computer owner (or your parents if you're under-18):-
+  ursina
+Command for installation (for Command Prompt/Terminal):-
+It will look something like this:-
+  C:\Users\yourusername\AppData\Local\Programs\Python\Python39\python.exe -m pip install ursina
+'''
 try:
     from ursina import *
     from ursina.prefabs.first_person_controller import FirstPersonController
