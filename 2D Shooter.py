@@ -1,4 +1,8 @@
 '''
+Assets:-
+  bullet.png
+  player.png
+
 You will have to install these modules to get this to run. Ask permission first from the computer owner (or your parents if you're under-18):-
   pgzero
   pygame
